@@ -26,9 +26,6 @@ Python, PyTorch, TensorFlow
 AWS, Data Engineering
 SQL and NoSQL Databases
 
-📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=Salah-Sal&show_icons=true&theme=radical
-
 
 🤝 Let's Connect!
 Feel free to reach out if you'd like to collaborate on AI and machine learning projects!
