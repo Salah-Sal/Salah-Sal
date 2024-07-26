@@ -2,7 +2,10 @@ Salah Abdo
 
 
 👨‍💻 Machine Learning Engineer | AI Enthusiast
+
 Passionate about leveraging AI and machine learning to solve real-world problems, particularly in healthcare and telemedicine. Experienced in developing innovative AI solutions and data analysis.
+
+
 🎓 Education
 
 M.Eng. in Applied Artificial Intelligence - Stevens Institute of Technology
